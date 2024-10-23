@@ -15,6 +15,7 @@ Notification popup:
 
 ## Installation
 * For Google Chrome (and Chromium-based browsers) users: Download the latest release from this repository (ATM: [Copycat 1.0.0](https://github.com/makipom/copycat/releases/latest)), go to the Extensions menu in your browser, enable the Developer Mode and install the extension by loading the downloaded archive into it directly.
+
 * For Firefox (and Firefox-based browsers) users: I highly suggest installing from the official Firefox Add-ons website by going to this page - [Copycat - 🦊 Firefox](https://addons.mozilla.org/ja/firefox/addon/copy_cat/) and clicking Install.
 
 ### Credits:
