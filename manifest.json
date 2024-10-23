@@ -9,6 +9,11 @@
         "js": ["jquery-3.6.0.min.js", "copylinkaddress.js"]
         }
     ],
+    "browser_specific_settings": {
+    	"gecko": {
+    		"id": "copy@cat"
+    	}
+    },
     "icons": {
             "48": "/icons/icon48.png",
             "128": "/icons/icon128.png"
