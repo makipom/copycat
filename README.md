@@ -5,7 +5,7 @@
 ### Features
 * Copy any URL by hovering your mouse cursor over it and pressing the 'Z' key on your keyboard;
 * Copy any hypertext as plain text by hovering your mouse cursor over it and pressing the 'X' key on your keyboard;
-* The sound will play and a notification popup will appear at the bottom of the screen when the copying action was performed successfully;
+* A sound will play and a notification popup will appear at the bottom of the screen when the copying action was performed successfully;
 * Supporting English, Chinese (Simplified) and Japanese locales.
 
 ### Screenshots
@@ -17,6 +17,6 @@ Notification popup:
 [copylinkaddress](https://github.com/dhruvtv/copylinkaddress) by dhruvtv
 
 [Copy URL on Hover](https://github.com/noahvogt/copy-url-on-hover) by noahvogt      
-The current extension essentially is a fork of the latter one, but fixes several bugs present in it and provides additional functionality.
+The current extension essentially is a fork of this one, but has many significant changes that fix several crucial bugs present in it, and provide additional functionality.
 
 [Springin’ Sound Stock](https://www.springin.org/sound-stock/)
