@@ -6,7 +6,7 @@
 * Copy any URL by hovering your mouse cursor over it and pressing the 'Z' key on your keyboard;
 * Copy any hypertext as plain text by hovering your mouse cursor over it and pressing the 'X' key on your keyboard;
 * The sound will play and a notification popup will appear at the bottom of the screen when the copying action was performed successfully;
-* Supporting English, Chinese and Japanese locales.
+* Supporting English, Chinese (Simplified) and Japanese locales.
 
 ### Screenshots
 
