@@ -10,14 +10,13 @@
 
 ### Screenshots
 
-Notification popup:
-
+Notification popup:        
 ![image](https://github.com/user-attachments/assets/75aab3ad-5089-48a0-a622-e3122162ad30)
 
 ### Credits:
 [copylinkaddress](https://github.com/dhruvtv/copylinkaddress) by dhruvtv
 
-[Copy URL on Hover](https://github.com/noahvogt/copy-url-on-hover) by noahvogt
+[Copy URL on Hover](https://github.com/noahvogt/copy-url-on-hover) by noahvogt      
 The current extension essentially is a fork of the latter one, but fixes several bugs present in it and provides additional functionality.
 
 [Springin’ Sound Stock](https://www.springin.org/sound-stock/)
