@@ -1,3 +1,5 @@
+## English | [中文](https://github.com/makipom/copycat/blob/main/README_zhCN.MD) | 日本語
+
 <p align="center"> <img src="https://github.com/user-attachments/assets/ea7710eb-d50b-4257-be73-238703ed7a11"> </p>
 <p align="center"> <b> Copycat </b> </p>
 <p align="center"> An extension that allows you to copy any URL with a single press of a button. </p>
