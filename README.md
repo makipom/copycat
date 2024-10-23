@@ -1,4 +1,4 @@
-## English | [中文](https://github.com/makipom/copycat/blob/main/README_zhCN.MD) | 日本語
+## English | [中文](https://github.com/makipom/copycat/blob/main/README_zhCN.MD) | [日本語](https://github.com/makipom/copycat/blob/main/README_jp.MD)
 
 <p align="center"> <img src="https://github.com/user-attachments/assets/ea7710eb-d50b-4257-be73-238703ed7a11"> </p>
 <p align="center"> <b> Copycat </b> </p>
