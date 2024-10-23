@@ -1,3 +1,5 @@
+## [English](https://github.com/makipom/copycat/blob/main/README.md) | 中文 | 日本語
+
 <p align="center"> <img src="https://github.com/user-attachments/assets/ea7710eb-d50b-4257-be73-238703ed7a11"> </p>
 <p align="center"> <b> Copycat </b> </p>
 <p align="center"> 一个让你只需按下一个按钮即可复制任意URL的扩展。 </p>
